@@ -1,3 +1,3 @@
 # node-loginapp
 
-This is an Login application made in the Node Js
+This is Login application made in the Node Js
